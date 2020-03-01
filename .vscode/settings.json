@@ -1,4 +1,5 @@
 {
     "workbench.editor.enablePreview": false,
-    "python.pythonPath": "f:\\AA Repos\\DjangoBlog\\django_env\\Scripts\\python.exe"
+    "python.pythonPath": "f:\\AA Repos\\DjangoBlog\\django_env\\Scripts\\python.exe",
+    "python.linting.enabled": false
 }
